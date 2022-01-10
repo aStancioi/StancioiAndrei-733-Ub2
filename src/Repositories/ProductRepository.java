@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ProductRepository {
-
+    //CRUD-Console View
     private List<Produkt> produkte;
 
     public ProductRepository() {
